@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RandomizeYourChoice</string>
+    <string name="maximum_number">Enter your maximum number</string>
+    <string name="minimum_number">Enter your minimum number</string>
+    <string name="empy_editText">Your minimum number and/or your maximum number is empty !</string>
+    <string name="min_is_higher">Your minimum number is bigger than your maximum number !</string>
+</resources>
