@@ -1,4 +1,4 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b008bf990cfe4ad989db460f6fd2512a)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Warza31/RandomizeYourChoice&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e7095180c44a4d04b4a1b11804d40990)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Warza31/RandomizeYourChoice&amp;utm_campaign=Badge_Grade))
 [![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
 [![MIT licensed](https://img.shields.io/github/license/Warza31/RandomizeYourChoice.svg)](https://raw.githubusercontent.com/Warza31/RandomizeYourChoice/master/LICENSE)
 # RandomizeYourChoice
